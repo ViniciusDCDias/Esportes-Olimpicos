@@ -1,4 +1,4 @@
-# Projeto: Busca de Esportes Olímpicos
+# Projeto: Busca de Esportes Olímpicos-Feito na Imersão dev
 
 ## Descrição
 Este projeto web permite que os usuários busquem por informações sobre esportes olímpicos. Ao digitar o nome de um esporte, o usuário receberá resultados relevantes, incluindo:
