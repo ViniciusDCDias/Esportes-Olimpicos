@@ -113,12 +113,13 @@ let dados = [
         tags: "skate manobra rampa Leandro Guilhermo Kelvin Hoefler",
     },
     {
-    "titulo": "Balé",
-    "descricao": "O balé é uma forma de dança artística que combina técnica, expressão corporal e musicalidade. Conhecido por sua elegância e precisão, exige disciplina, postura e força. Apesar de ser fisicamente exigente e altamente técnico, o balé não é considerado um esporte olímpico, sendo classificado como uma arte cênica. Conheço pessoas que praticam, como a Sophia Paviani, cuja dedicação ao balé sempre me chama atenção de um jeito especial.",
-    "link": "https://pt.wikipedia.org/wiki/Balé",
-    "link2": "https://www.youtube.com/watch?v=WquHNFy9c7Q",
-    "beneficios": "Os benefícios de praticar Balé incluem: Melhora da postura, Aumento da flexibilidade, Fortalecimento muscular, Desenvolvimento da coordenação motora, Aumento da consciência corporal",
-    "tags": ";bale dança arte flexibilidade postura"
-}
+        "titulo": "Balé",
+        "descricao": "O balé é uma forma de dança artística que combina técnica, expressão corporal e musicalidade. Conhecido por sua elegância e precisão, exige disciplina, postura e força. Apesar de ser fisicamente exigente e altamente técnico, o balé não é considerado um esporte olímpico, sendo classificado como uma arte cênica. Conheço pessoas que praticam, como a Sophia Paviani, cuja dedicação ao balé sempre me chama atenção de um jeito especial.",
+        "link": "https://pt.wikipedia.org/wiki/Balé",
+        "link2": "https://www.youtube.com/watch?v=WquHNFy9c7Q",
+        "beneficios": "Os benefícios de praticar Balé incluem: Melhora da postura, Aumento da flexibilidade, Fortalecimento muscular, Desenvolvimento da coordenação motora, Aumento da consciência corporal",
+        "tags": ";bale dança arte flexibilidade postura"
+    }
 ];
+
 
