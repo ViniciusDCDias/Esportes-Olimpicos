@@ -58,7 +58,7 @@ let dados = [
     },
     {
         titulo: "Basquetebol",
-        descricao: "O basquetebol é um esporte de equipe em que o objetivo é marcar pontos lançando uma bola dentro de uma cesta.",
+        descricao: "O basquetebol é um esporte de equipe em que o objetivo é marcar pontos lançando uma bola dentro de uma cesta. Esporte que praticaria, e conheço varias pessoas que jogam, como kauan que joga muito bem e quase fez nossa escola ganhar como armador",
         link: "https://pt.wikipedia.org/wiki/Basquetebol",
         link2: "https://www.youtube.com/wiki/Basquetebol",
         beneficios: "O basquetebol melhora a agilidade, a coordenação motora, a altura e a força.",
@@ -66,7 +66,7 @@ let dados = [
     },
     {
         titulo: "Futebol",
-        descricao: "O futebol é um esporte coletivo no qual duas equipes de onze jogadores cada utilizam os pés para tentar introduzir a bola no gol adversário.",
+        descricao: "O futebol é um esporte coletivo no qual duas equipes de onze jogadores cada utilizam os pés para tentar introduzir a bola no gol adversário. Esporte que pratico como zagueiro e gosto muito",
         link: "https://pt.wikipedia.org/wiki/Futebol",
         link2: "https://www.youtube.com/watch?v=1F5QRQ8CBFs", // Troque por um link de um jogo de futebol real!
         beneficios: "O futebol desenvolve a resistência, a velocidade, a coordenação motora e o trabalho em equipe.",
@@ -82,7 +82,7 @@ let dados = [
     },
     {
         titulo: "Vôlei de Praia",
-        descricao: "O vôlei de praia é uma variação do vôlei tradicional, disputado em duplas em uma quadra de areia.",
+        descricao: "O vôlei de praia é uma variação do vôlei tradicional, disputado em duplas em uma quadra de areia. Conheço varias pessoas que praticam este esporte, como minha amiga Yasmin que joga muito bem",
         link: "https://pt.wikipedia.org/wiki/Vôlei_de_praia",
         link2: "https://www.youtube.com/watch/v=2zN90uN546A", // Vídeo ilustrativo
         beneficios: "Melhora a resistência, agilidade e trabalho em equipe.",
@@ -110,7 +110,7 @@ let dados = [
         link: "https://pt.wikipedia.org/wiki/Skate",
         link2: "https://www.youtube.com/watch/v=dQw4w9WgXcQ", // Vídeo ilustrativo
         beneficios: "Desenvolve o equilíbrio, a coordenação motora e a criatividade.",
-        tags: "skate manobra rampa Leandro Guilhermo Kelvin Hoefler",
+        tags: "skate manobra rampa Leandro Guilhermo Kelvin Hoefler Raissa Leal",
     },
     {
         "titulo": "Balé",
@@ -121,5 +121,6 @@ let dados = [
         "tags": ";bale dança arte flexibilidade postura"
     }
 ];
+
 
 
