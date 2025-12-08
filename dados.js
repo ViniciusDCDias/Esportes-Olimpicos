@@ -115,12 +115,13 @@ let dados = [
     {
         "titulo": "Balé",
         "descricao": "O balé é uma forma de dança artística que combina técnica, expressão corporal e musicalidade. Conhecido por sua elegância e precisão, exige disciplina, postura e força. Apesar de ser fisicamente exigente e altamente técnico, o balé não é considerado um esporte olímpico, sendo classificado como uma arte cênica. Conheço pessoas que praticam, como a Sophia Paviani, cuja dedicação ao balé sempre me chama atenção de um jeito especial.",
-        "link": "https://www.instagram.com/sophia.paviani/",
-        "link2": "https://www.instagram.com/sophia.paviani/",
+        "link": "https://www.instagram.com/s.pavi/",
+        "link2": "https://www.instagram.com/",
         "beneficios": "Os benefícios de praticar Balé incluem: Melhora da postura, Aumento da flexibilidade, Fortalecimento muscular, Desenvolvimento da coordenação motora, Aumento da consciência corporal",
         "tags": ";bale dança arte flexibilidade postura"
     }
 ];
+
 
 
 
