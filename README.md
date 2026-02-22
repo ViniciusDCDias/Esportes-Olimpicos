@@ -15,4 +15,4 @@ Este projeto web permite que os usuários busquem por informações sobre esport
 ## Como executar o projeto
 1. **Clone o repositório:**
    ```bash
-   git clone [URL inválido removido]
+   git clone https://github.com/ViniciusDCDias/Esportes-Olimpicos
